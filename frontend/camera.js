@@ -85,7 +85,7 @@ const guiState = {
   },
   output: {
     showVideo: true,
-    showSkeleton: false,
+    showSkeleton: true,
     showPoints: false,
     showBoundingBox: false,
   },
